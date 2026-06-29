@@ -2,6 +2,8 @@
 
 A premium, professional, and fully responsive WordPress portfolio theme designed with high-end glassmorphism aesthetics, vibrant floating glows, and interactive layout elements.
 
+## Live Demo
+Check out the theme in action here: **[https://ismayilportfolio.site.je/](https://ismayilportfolio.site.je/)**
 ## Features
 
 - **Glassmorphism Design**: Modern, semi-transparent UI elements with blurred backgrounds and sleek borders.
